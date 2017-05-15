@@ -327,7 +327,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D12A97782F25D8B648886146 /* Pods-SwiftSortUtilsTests.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
@@ -349,7 +348,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7F428392DC369563D2A6A244 /* Pods-SwiftSortUtilsTests.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
